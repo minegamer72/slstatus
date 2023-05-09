@@ -1,0 +1,2 @@
+# slstatus
+ My slstatus configuration
